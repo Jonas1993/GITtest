@@ -12,3 +12,6 @@ Kopiervorlagen sind unabhängige Kopien von TIA Portal Elementen. Sie haben
 keine Verbindung zu Ihren Verwendungsstellen im Projekt und keine Möglichke
 zur systemunterstützten Versionierung oder zentralen Änderbarkeit.
 Entscheiden Sie immer auf Grund dieser Unterschiede, ob Sie Typen oder
+
+
+Eine weitere Zeile wurde hinzugefügt
